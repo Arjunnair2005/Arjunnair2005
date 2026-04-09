@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Arjun</h1>
+
+<p align="center">
+  <img src="img.jpeg" alt="banner" width="600"/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on a Complaint Issue Tracking System (Full-stack MERN project)<br><br>👯 I’m looking to collaborate on beginner-friendly full-stack development projects and participate in hackathons<br><br>🤝 I’m looking for help with advanced JavaScript concepts<br><br>🌱 I’m currently learning the MERN stack (MongoDB, Express, React, Node.js)<br><br>💬 Ask me about Java, C++, and Python basics, web development, and building beginner-friendly full-stack projects<br>⚡ Fun fact: I believe learning by building is the fastest way to grow.
 
