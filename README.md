@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 
 <p align="center">
-  <img src="img.jpeg" alt="banner" width="600"/>
+  <img src="img.jpeg" alt="banner" width="150"/>
 </p>
 
 # 💫 About Me:
